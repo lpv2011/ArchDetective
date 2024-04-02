@@ -1,2 +1,2 @@
 # ArchDetective
-Scanner that looks for architecture specific mismatches in packages.
+Scanner that aims to bridge a crucial gap in current software compatibility tools.
